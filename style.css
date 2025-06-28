@@ -26,6 +26,7 @@
     margin: auto;
     display: flex;
     justify-content: space-between;
+    margin-bottom: 20px;
 }
 
 .box-2-item img {
@@ -36,5 +37,24 @@
     width: 32%;
 }
 .box-item img {
+    margin-bottom: 10px;
+}
+.box-3 {
+    width: 1240px;
+    /* background: blue; */
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-3-item {
+    width: 24%;
+}
+
+.box-3-item img {
+    max-width: 100%;
+}
+
+.box-2-item img {
     margin-bottom: 10px;
 }
