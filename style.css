@@ -5,15 +5,36 @@
 }
 .box {
     width: 1240px;
-    background: rebeccapurple;
+    /* background: rebeccapurple; */
     margin: auto;
     display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
 }
 
 .box-item {
-    width: 413px;
+    width: 390px;
 }
 
 .box-item img {
     max-width: 100%;
+}
+
+.box-2 {
+    width: 1240px;
+    /* background: yellow; */
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-2-item img {
+    max-width: 100%;
+}
+
+.box-2-item {
+    width: 32%;
+}
+.box-item img {
+    margin-bottom: 10px;
 }
