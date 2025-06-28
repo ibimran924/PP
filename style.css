@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.box {
+    width: 1240px;
+    background: rebeccapurple;
+    margin: auto;
+    display: flex;
+}
+
+.box.item {
+    width: 433px;
+}
