@@ -10,6 +10,10 @@
     display: flex;
 }
 
-.box.item {
-    width: 433px;
+.box-item {
+    width: 413px;
+}
+
+.box-item img {
+    max-width: 100%;
 }
